@@ -1,0 +1,6 @@
+model_checkpoint_path: "/catkin_ws/src/project/src/model/critic/critic-network-665524"
+all_model_checkpoint_paths: "/catkin_ws/src/project/src/model/critic/critic-network-665520"
+all_model_checkpoint_paths: "/catkin_ws/src/project/src/model/critic/critic-network-665521"
+all_model_checkpoint_paths: "/catkin_ws/src/project/src/model/critic/critic-network-665522"
+all_model_checkpoint_paths: "/catkin_ws/src/project/src/model/critic/critic-network-665523"
+all_model_checkpoint_paths: "/catkin_ws/src/project/src/model/critic/critic-network-665524"
